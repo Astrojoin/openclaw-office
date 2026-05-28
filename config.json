@@ -1,0 +1,13 @@
+{
+  "client_id": "90921e85-3464-4bdf-9583-cb4bee5c88f7",
+  "authority": "https://login.microsoftonline.com/common",
+  "scopes": [
+    "Files.ReadWrite.All",
+    "Mail.ReadWrite",
+    "Mail.Send",
+    "Calendars.ReadWrite",
+    "User.Read"
+  ],
+  "token_path": "~/openclaw-onedrive/tokens.json",
+  "graph_base": "https://graph.microsoft.com/v1.0"
+}
